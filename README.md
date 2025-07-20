@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Mohammed Ashraf
 
-<!--
-**MohammedAshraf965/MohammedAshraf965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate **Computer Vision Engineer** with a strong focus on embedding computer vision and AI into edge devices. With expertise spanning **AI**, **Embedded Systems**, **Robotics**, and **Autonomous Systems**, I thrive on building intelligent solutions that bridge the gap between software and hardware.
 
-Here are some ideas to get you started:
+In addition to my engineering work, I am also a **part-time researcher**, continuously exploring new advancements in AI, robotics, and embedded vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Programming Languages
+- **C**
+- **C++**
+- **Python**
+- **MATLAB**
+
+## 🚀 Interests
+- Computer Vision on Edge Devices
+- Applied AI & Machine Learning
+- Robotics & Autonomous Systems
+- Building Embedded AI Solutions
+
+## 🌐 Social media
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mohammedashraf95)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mohammed-Ashraf-26?ev=hdr_xprf)
