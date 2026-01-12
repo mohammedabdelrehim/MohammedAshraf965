@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:6AD3F5&height=200&section=header&text=Mohammed%20Abdelrehim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Vision%20and%20Robotics%20Engineer%20•%20Building%20Autonomous%20Systems&descSize=18&descAlignY=55" width="100%" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6AD3F5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Vision+and+Robotics+Engineer;Crafting+the+Future+of+Autonomous+Navigation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6AD3F5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Vision+and+Robotics+Engineer;Crafting+the+Future+of+Autonomous+Systems)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
 <br/>
@@ -16,13 +16,6 @@
 [![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=swbyq1gAAAAJ)
 
 <br/>
-
-<!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=jerinpeter&label=Profile%20Views&color=6AD3F5&style=flat-square)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/jerinpeter?label=Followers&style=flat-square&color=6AD3F5)
-&nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/jerinpeter?label=Stars&style=flat-square&color=6AD3F5)
 
 </div>
 
