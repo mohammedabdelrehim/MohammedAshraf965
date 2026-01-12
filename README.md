@@ -4,17 +4,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:6AD3F5&height=200&section=header&text=Mohammed%20Abdelrehim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Vision%20and%20Robotics%20Engineer%20•%20Building%20Autonomous%20Systems&descSize=18&descAlignY=55" width="100%" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6AD3F5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Vision+&+Robotics+Engineer;Crafting+the+Future+of+Autonomous+Navigation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6AD3F5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Vision+and+Robotics+Engineer;Crafting+the+Future+of+Autonomous+Navigation)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://jerinpeter.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerinpeter/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerinpeter@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://jerinpeter14.medium.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/jerinpeter248)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://mohammedabdelrehim.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammedashraf95)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadd.abdelrahim@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com/@mohammedashraf5421)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=swbyq1gAAAAJ)
 
 <br/>
 
@@ -34,12 +33,12 @@
 
 <td width="50%">
 ### 🗺️ 3D Perception
-Implementing **RTAB-Map** SLAM integration with **Livox Mid-360 LiDAR** for real-time 3D mapping and obstacle avoidance
+Implementing and optimizing **Vision Models** for real-time robotic systems for complex task handling
 </td>
 
 <td width="50%">
 ### 🧠 Edge Deployment
-Creating **LLM function calling** pipelines for natural language robot commands via the OM1 platform
+**Creating and deploying** pipelines for computer vision and VLA for robot commands via a specialized UI
 </td>
 
 </tr>
@@ -47,12 +46,12 @@ Creating **LLM function calling** pipelines for natural language robot commands 
   
 <td width="50%">
 ### 🔋 Autonomous Systems
-Building **AprilTag-based precision docking** systems for autonomous charging of quadruped robots
+Building **Control-based platform** for aerial and ground robots
 </td>
 
 <td width="50%">
 ### 🤖 Humanoid Navigation
-Developing joint control & autonomous navigation for **Unitree G1 Humanoid** with MPPI controllers and advanced localization
+Developing joint control & autonomous navigation for **Humanoid prototype** with optimal controllers and advanced strategies
 </td>
 
 </tr>
