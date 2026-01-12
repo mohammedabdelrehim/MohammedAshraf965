@@ -19,34 +19,38 @@
 
 </div>
 
+---
+
 ## 🎯 Current Focus
 
 <table>
 <tr>
-
 <td width="50%">
+  
 ### 🗺️ 3D Perception
 Implementing and optimizing **Vision Models** for real-time robotic systems for complex task handling
 </td>
 
 <td width="50%">
+
 ### 🧠 Edge Deployment
 **Creating and deploying** pipelines for computer vision and VLA for robot commands via a specialized UI
-</td>
 
+</td>
 </tr>
-<tr>
-  
+<tr> 
 <td width="50%">
+  
 ### 🔋 Autonomous Systems
 Building **Control-based platform** for aerial and ground robots
-</td>
 
+</td>
 <td width="50%">
+
 ### 🤖 Humanoid Navigation
 Developing joint control & autonomous navigation for **Humanoid prototype** with optimal controllers and advanced strategies
-</td>
 
+</td>
 </tr>
 </table>
 
